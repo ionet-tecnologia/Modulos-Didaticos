@@ -28,7 +28,7 @@ Usando os pinos de I/O presente em dois conectores, é possível conectar módul
 
 1. MPLAB X IDE: https://www.microchip.com/mplab/mplab-x-ide
 1. MPLAB XC8: https://www.microchip.com/mplab/compilers
-1. [Microchip USB HID BootLoader.exe](MicrochipUsbHidBootLoader.exe)
+1. ![Microchip USB HID BootLoader](MicrochipUsbHidBootLoader.exe)
 
 ## Datasheets
 * Datasheet do PIC18F4550: https://ww1.microchip.com/downloads/en/devicedoc/39632e.pdf
