@@ -23,6 +23,7 @@ Usando os pinos de I/O presente em dois conectores, é possível conectar módul
 ## Informações básicas
 * [Manual de utilização](IOnet_KDPIC4550_Manual.pdf)
 * [Circuito eletrônico](Circuito_KDPIC4550.pdf)
+! [Circuito eletrônico](Circuito_KDPIC4550.pdf?raw=true "Circuito KDPIC4550")
 
 ## Softwares necessários
 
