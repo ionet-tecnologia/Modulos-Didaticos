@@ -21,8 +21,9 @@ Usando os pinos de I/O presente em dois conectores, é possível conectar módul
 * Comunicação Ethernet, entre outros;
 
 ## Informações básicas
-* [Circuito](Circuito_KDPIC4550.pdf)
 * [Manual de utilização](IOnet_KDPIC4550_Manual.pdf)
+* [Circuito eletrônico](Circuito_KDPIC4550.pdf)
+! [Circuito eletrônico](Circuito_KDPIC4550.pdf)
 
 ## Softwares necessários
 
