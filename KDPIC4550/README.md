@@ -4,7 +4,7 @@ O Kit de desenvolvimento IOnet KDPIC4550 é uma excelente ferramenta para inicia
 ![KDPIC4550](KDPIC4550.png?raw=true "KDPIC4550")
 
 ## Sobre
-Contendo microcontrolador PIC18F4550, leds, botões, potenciômetro e conectores, é possível desenvolver programas, tanto em linguagem Assembly quanto em linguagem “C”, para explorar dezenas de periféricos presentes neste microcontrolador. Tudo isso com um Kit compacto e funcional.
+É Kit para estudo de sistemas microcontrolados compacto e funcional, tem como base o microcontrolador PIC18F4550 dotado de bootloader USB, leds, botões, potenciômetro e conectores, permite desenvolver programas, tanto em linguagem Assembly quanto em linguagem “C”, para explorar dezenas de periféricos presentes neste microcontrolador.
 
 No Kit é possível explorar recursos de:
 * Configuração e utilização de pinos de I/O digitais;
