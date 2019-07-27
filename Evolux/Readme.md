@@ -6,7 +6,7 @@ IOnet Evolux é uma plataforma didática voltada à robótica educacional com pr
 ## Sobre
 Tem como base o Arduino Nano e cujos pinos são dispostos em conectores do tipo RJ11, o que facilita a conexão com sensores e atuadores. Possui um módulo bluetooth para gravação do Arduino sem a necessidade de fios, e driver para acionamento direto de motores e servomotores, o que torna muito versátil para aplicações robôs móveis.
 
-_ _ Mapa de Pinos
+**Mapa de Pinos
 
 ![IOnet Evolux Mapa de Pinos](IOnet_Evolux_MapaDePinos.png?raw=true "IOnet Evolux Mapa de Pinos")
 
