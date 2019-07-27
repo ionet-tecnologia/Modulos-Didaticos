@@ -6,6 +6,8 @@ IOnet Evolux é uma plataforma didática voltada à robótica educacional com pr
 ## Sobre
 Tem como base o Arduino Nano e cujos pinos são dispostos em conectores do tipo RJ11, o que facilita a conexão com sensores e atuadores. Possui um módulo bluetooth para gravação do Arduino sem a necessidade de fios, e driver para acionamento direto de motores e servomotores, o que torna muito versátil para aplicações robôs móveis.
 
+![IOnet Evolux Pinos](IOnet_Evolux_Pinos.png?raw=true "IOnet Evolux Pinos")
+
 Dentre as principais características, destacam-se:
 * 01 (um) Arduino Nano;
 * 01 (um) Módulo Bluetooth;
@@ -17,17 +19,14 @@ Dentre as principais características, destacam-se:
 * 02 (dois) LEDs programáveis;
 * 01 (um) Botão de reset;
 * 01 (um) DIP Switch para acesso ao módulo Bluetooth de duas formas distintas;
+* Totalmente compatível com as bibliotecas desenvolvida das para o Arduino Nano;
+*	Programação gráfica usando o MBlock;
+*	Programação textual usando o Arduino IDE;
 
 ## Informações básicas
-* [Manual de utilização](IOnet_KDPIC4550_Manual.pdf)
-* [Circuito eletrônico](IOnet_KDPIC4550_Circtuito.pdf)
+* [Circuito eletrônico](IOnet_Evolux_Circuito.pdf)
 
 ## Softwares necessários
 
-1. Microchip® MPLAB X IDE: https://www.microchip.com/mplab/mplab-x-ide
-1. Microchip® MPLAB XC8: https://www.microchip.com/mplab/compilers
-1. Software de bootloader: [Microchip® USB HID BootLoader](MicrochipUsbHidBootLoader.exe?raw=true)
-
-## Datasheets
-* PIC18F4550: https://ww1.microchip.com/downloads/en/devicedoc/39632e.pdf
-
+1. Arduino IDE (para programação textual): https://www.arduino.cc/en/Main/Software
+1. MBlock (para programação gráfica): http://www.mblock.cc/mblock-software/
