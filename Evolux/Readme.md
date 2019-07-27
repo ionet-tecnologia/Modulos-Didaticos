@@ -1,5 +1,5 @@
 # Kit Didático IOnet Evolux
-IOnet Evolux é uma plataforma didática voltada à robótica educacional com programação/gravação sem fio voltada principalmente para educação infantil. 
+IOnet Evolux é uma plataforma didática voltada à robótica educacional com programação/gravação sem fio voltada principalmente à educação infantil. 
 
 ![IOnet Evolux](IOnet_Evolux.png?raw=true "IOnet Evolux")
 
