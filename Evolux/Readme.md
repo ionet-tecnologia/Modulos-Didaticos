@@ -14,7 +14,7 @@ Dentre as principais características, destacam-se:
 * 01 (um) Arduino Nano;
 * 01 (um) Módulo Bluetooth;
 * 01 (uma) entrada de alimentação entre 9 e 12Vcc por bateria ou fonte externa com conector padrão P4;
-* 08 (dez) conectores RJ11 para conexão de sensores e atuadores, digitais e analógicos;
+* 08 (oito) conectores RJ11 para conexão de sensores e atuadores, digitais e analógicos;
 * 02 (dois) conectores RJ11 para conexão de motores DC;
 * 04 (quatro) conectores tipo barra de pinos para conexão de servomotores;
 * 02 (dois) Botões programáveis;
